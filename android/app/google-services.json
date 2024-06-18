@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706670451198",
+    "project_id": "fir-02-a1395",
+    "storage_bucket": "fir-02-a1395.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706670451198:android:333b8770d486e7a4d688af",
+        "android_client_info": {
+          "package_name": "com.example.note_taker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt-axk7XqGEhcWF_nLFagJ2K1clIqWNeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
